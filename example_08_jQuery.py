@@ -1,4 +1,4 @@
-import os, os.path
+import os.path
 import random
 import string
 
